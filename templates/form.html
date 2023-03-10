@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Landing Page</title>
+      <link rel="stylesheet" href="/static/style.css">
+   </head>
+   <body>
+      <div class="heading">
+         <h1 align="center">Earthquake Zone Prediction</h1>
+      </div>
+      <form method="POST" action="/map">
+         <div class="box">
+            <div class="grid-item">
+               <label for="lat">Latitude :</label>
+               <input type="text" id="lat" name="lat" placeholder="Enter Latitude" required><br><br>
+            </div>
+            <div class="grid-item">
+               <label for="long">Longitude :</label>
+               <input type="text" id="long" name="long" placeholder="Enter Longitude" required><br><br>
+            </div>
+         </div>
+         <div class="submit">
+               <button type="submit" class="button">Predict Zone</button>
+               <button type="reset">Reset</button>
+         </div>
+      </form>
+   </body>
+</html>
