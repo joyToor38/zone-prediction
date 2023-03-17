@@ -1,0 +1,109 @@
+Town,State,Zone,lat,lon
+Agra,Utter Pradesh,III,27.1767,78.0081
+Ahmedabad,Gujarat,III,23.0216238,72.5797068
+Ajmer,Rajasthan,II,26.4691,74.639
+Allahabad,Utter Pradesh,II,25.4358,81.8463
+Almora,Uttrakhand,IV,29.5892,79.6467
+Ambala,Haryana,IV,30.3843674,76.770421
+Amritsar,Punjab,IV,31.6343083,74.8736788
+Asansol,West Bengal,III,23.6871297,86.9746587
+Aurangabad,Maharastha,II,19.8762,75.3433
+Baharich,Utter Pradesh,IV,27.5705,81.5977
+Bangalore,Karnataka,II,12.9767936,77.590082
+Barauni,Bihar,IV,25.43145435,86.02837532
+Bareilly,Utter Pradesh,III,28.367,79.4304
+Belgaum,Karnataka,III,15.8572666,74.5069343
+Bhatinda,Punjab,III,30.211,74.9455
+Bhilai,Chattiagarh,II,21.1938,81.3509
+Bhopal,Madhya Pradesh,II,23.2584857,77.401989
+Bhubaneswar,Orissa,III,20.2602964,85.8394521
+Bhuj,Gujarat,V,23.2472446,69.668339
+Bijapur,Karnataka,III,16.8269911,75.7175387
+Bikaner,Rajasthan,III,28.0159286,73.3171367
+Bokaro,Jharkhand,III,23.69912795,85.99106894
+Bulandshahr,Utter Pradesh,IV,28.407,77.8498
+Burdwan,West Bengal,III,23.2495714,87.8681751
+Cailcut,Kerala,III,11.2588,75.7804
+Chandigarh,Chandigarh,IV,30.72984395,76.78414567
+Chennai,Tamil Nadu,III,13.0836939,80.270186
+Kanchipuram,Tamil Nadu,III,12.9647163,79.9839686
+Kanpur,Utter Pradesh,III,26.4499,80.3319
+Karwar,Karnataka,III,14.8120931,74.1319229
+Kohima,Nagaland,V,25.75,94.166667
+Kolkata,West Bengal,III,22.5726459,88.3638953
+Kota,Rajasthan,II,25.1737019,75.8574194
+Kurnool,Andhra Pradesh,II,15.8309251,78.0425373
+Lucknow,Utter Pradesh,III,26.8467,80.9462
+Ludhiyana,Punjab,IV,30.901,75.8573
+Madurai,Tamil Nadu,II,9.9261153,78.1140983
+Mandi,Himanchal Pradesh,V,31.5892,76.9182
+Mangalore,Karnataka,III,12.8698101,74.8430082
+Monghyr,Bihar,IV,25.3773519,86.4731039
+Moradabad,Utter Pradesh,IV,28.8386,78.7733
+Mumbai,Maharastha,III,19.076,72.8777
+Mysore,Karnataka,II,12.3051828,76.6553609
+Nagpur,Maharastha,II,21.1458,79.0882
+Nagarjunasagar,Telangana,II,16.7043139,79.2510903
+Nainital,Uttrakhand,IV,29.3919,79.4542
+Nasik,Maharastha,III,19.9975,73.7898
+Nellore,Andhra Pradesh,III,14.4493717,79.9873763
+Osmanabad,Maharastha,III,18.1853,76.042
+Panjim,Goa,III,15.4989946,73.8282141
+Patiala,Punjab,III,30.2090874,76.33987209
+Patna,Bihar,IV,25.6093239,85.1235252
+Pilibhit,Utter Pradesh,IV,28.6249,79.8075
+Chitradurga,Karnataka,II,14.2266443,76.4005122
+Coimbatore,Tamil nadu,III,11.0018115,76.9628425
+Cuddalore,Tamil Nadu,III,11.7564329,79.7634644
+Cuttack,Orissa,III,20.4686,85.8792
+Darbhanga,Bihar,V,26.08314325,86.03257097
+Darjeeling,West Bengal,IV,27.0377554,88.263176
+Dharwad,Karnataka,III,15.4540505,75.0066516
+Dehradun,Uttrakhand,IV,30.3165,78.0322
+Dharmpuri,Tamil Nadu,III,12.1211,78.1582
+Delhi,Delhi,IV,28.6517178,77.2219388
+Durgapur,West Bengal,III,23.5350475,87.3380425
+Gangtok,Sikkim,IV,27.3257569,88.69827695
+Guwahati,Assam,V,26.1805978,91.753943
+Goa,Goa,III,15.396201,73.829515
+Gulbarga,Karnataka,II,17.166667,77.083333
+Gaya,Bihar,III,24.7964355,85.0079563
+Gorakhpur,Utter Pradesh,IV,26.7606,83.3732
+Hyderabad,Andhra Pradesh,II,15.8147021,78.0265024
+Hyderabad,Telangana,II,17.38878595,78.46106473
+Imphal,Manipur,V,24.7991162,93.9364419
+Jabalpur,Madhya Pradesh,III,23.1608938,79.9497702
+Jaipur,Rajasthan,II,26.9154576,75.8189817
+Jamshedpur,Jharkhand,II,22.8015194,86.2029579
+Jhansi,Utter Pradesh,II,25.4484,78.5685
+Jodhpur,Rajasthan,II,26.2967719,73.0351433
+Jorhat,Assam,V,26.7577925,94.2079645
+Kakrapara,Gujarat,III,21.2996,73.3664
+Kalapakkam,Tamil Nadu,III,12.7137769,79.2702627
+Pondicherry,Pondicherry,II,11.9340568,79.8306447
+Pune,Maharastha,III,18.5204,73.8567
+Raipur,Chattisgarh,II,21.2380912,81.6336993
+Rajkot,Gujarat,III,22.3053263,70.8028377
+Ranchi,Chattisgarh,II,22.2656701,82.7310285
+Roorkee,Uttrakhand,IV,29.8543,77.888
+Rourkela,Orissa,II,22.2539994,84.85775201
+Sadiya,Assam,V,27.8342518,95.67670658
+Salem,Tamil Nadu,III,11.6549142,78.1584923
+Simla,Himanchal Pradesh,IV,31.1048,77.1734
+Sironj,Madhya Pradesh,II,24.101593,77.6905891
+Solapur,Maharastha,III,17.6599,75.9064
+Srinagar,Jammu & Kashmir,V,34.0747444,74.8204443
+Surat,Gujarat,III,21.19177615,72.95441578
+Tarapur,Maharastha,III,19.8649,72.685
+Tezpur,Assam,V,26.61695705,92.76500717
+Thane,Maharastha,III,19.2183,72.9781
+Thanjavur,Tamil Nadu,II,10.7860267,79.1381497
+Thiruvananthapuram,Kerala,III,8.4882267,76.947551
+Tiruchirappali,Tamil Nadu,II,10.7905,78.7047
+Tiruvennamalai,Tamil Nadu,III,12.2253,79.0747
+Udaipur,Rajasthan,II,24.578721,73.6862571
+Vadodara,Gujarat,III,22.2973142,73.1942567
+Varanasi,Utter Pradesh,III,25.3176,82.9739
+Vellore,Tamil Nadu,III,12.7948109,79.0006411
+Vijayawada,Andhra Pradesh,III,16.5087573,80.6185089
+Vishakhapatnam,Andhra Pradesh,II,17.6868,83.2185

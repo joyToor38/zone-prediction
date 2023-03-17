@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(24, 34, 44);
+    /* background-color: rgb(24, 34, 44);*/
+    background-image: url('bg.jpg');
+    background-size: cover;
     margin: 0px;
     font-family: Georgia, 'Times New Roman';
 }
@@ -36,6 +38,7 @@ label{
 }
 
 input[type=text]{
+    background-color: white;
     font-size: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -60,12 +63,14 @@ input[type=text]{
 
 
 button{
+    background-color: white;
     border: none;
     font-family: Georgia, 'Times New Roman';
     font-size: 24px;
     transition: background-color 0.2s ;
     padding: 5px 10px;
     margin-right: 30px;
+    border-radius: 10px;
 }
 
 button:hover{
@@ -77,3 +82,29 @@ button:hover{
 button:active{
     opacity: 0.5;
 }
+
+span{
+    color: white;
+    margin-top: 20px;
+    font-size: 24px
+}
+
+.second_half{
+    margin-top: 1%;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.or{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.current_location{
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
